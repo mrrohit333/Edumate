@@ -70,7 +70,7 @@ A modern e-learning platform featuring an interactive 3D instructor, document ma
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/edumate-3d-instructor.git
+   git clone https://github.com/mrrohit333/edumate-3d-instructor.git
    cd edumate-3d-instructor
    ```
 
@@ -133,4 +133,21 @@ For support, email support@edumate.com or join our Slack channel.
 - Shadcn UI for the beautiful components
 - Three.js community for 3D rendering support 
 
+## 📸 Output Screenshots
 
+Here are example outputs from the Edumate app:
+
+### Output 1
+![Output 1](/assets/output/output1.png)
+
+### Output 2
+![Output 2](/assets/output/output2.png)
+
+### Output 3
+![Output 3](/assets/output/output3.png)
+
+### Output 4
+![Output 4](/assets/output/output4.png)
+
+### Output 5
+![Output 5](/assets/output/output5.png)
