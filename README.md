@@ -132,3 +132,7 @@ For support, email support@edumate.com or join our Slack channel.
 - Thanks to all contributors
 - Shadcn UI for the beautiful components
 - Three.js community for 3D rendering support 
+
+
+
+![Uploading Screenshot 2025-07-27 010219.png…]()
