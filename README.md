@@ -138,16 +138,16 @@ For support, email support@edumate.com or join our Slack channel.
 Here are example outputs from the Edumate app:
 
 ### Output 1
-![Output 1](public\assets\output\output1.png)
+![Output 1](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output1.png)
 
 ### Output 2
-![Output 2](public\assets\output\output2.png)
+![Output 2](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output2.png)
 
 ### Output 3
-![Output 3](public\assets\output\output3.png)
+![Output 3](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output3.png)
 
 ### Output 4
-![Output 4](public\assets\output\output4.png)
+![Output 4](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output4.png)
 
 ### Output 5
-![Output 5](public\assets\output\output5.png)
+![Output 5](https://raw.githubusercontent.com/mrrohit333/Edumate/main/public/assets/output/output5.png)
