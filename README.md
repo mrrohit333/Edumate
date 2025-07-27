@@ -85,8 +85,7 @@ A modern e-learning platform featuring an interactive 3D instructor, document ma
    NEXTAUTH_URL=http://localhost:3000
    NEXTAUTH_SECRET=your-secret-key
    MONGODB_URI=your-mongodb-uri
-   SUPABASE_URL=your-supabase-url
-   SUPABASE_KEY=your-supabase-key
+  
    ```
 
 4. **Run the development server:**
