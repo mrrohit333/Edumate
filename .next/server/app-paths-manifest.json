@@ -1,0 +1,9 @@
+{
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/dashboard/calculator/page": "app/dashboard/calculator/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/assessments/create/page": "app/dashboard/assessments/create/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/documents/page": "app/dashboard/documents/page.js",
+  "/dashboard/assessments/page": "app/dashboard/assessments/page.js"
+}
